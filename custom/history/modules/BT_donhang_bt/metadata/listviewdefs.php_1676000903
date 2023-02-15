@@ -1,0 +1,59 @@
+<?php
+$module_name = 'BT_donhang_bt';
+$listViewDefs [$module_name] = 
+array (
+  'MDH' => 
+  array (
+    'type' => 'varchar',
+    'label' => 'LBL_MDH',
+    'width' => '10%',
+    'default' => true,
+  ),
+  'NAME' => 
+  array (
+    'width' => '32%',
+    'label' => 'LBL_NAME',
+    'default' => true,
+    'link' => true,
+  ),
+  'PRICE' => 
+  array (
+    'type' => 'decimal',
+    'label' => 'LBL_PRICE',
+    'width' => '10%',
+    'default' => true,
+  ),
+  'DESCRIPTION' => 
+  array (
+    'type' => 'text',
+    'label' => 'LBL_DESCRIPTION',
+    'sortable' => false,
+    'width' => '10%',
+    'default' => true,
+  ),
+  'DATE_DH_C' => 
+  array (
+    'type' => 'datetimecombo',
+    'default' => true,
+    'label' => 'LBL_DATE_DH',
+    'width' => '10%',
+  ),
+  'BT_CHITIETDONHANG_BT_BT_DONHANG_BT_1_NAME' => 
+  array (
+    'type' => 'relate',
+    'link' => true,
+    'label' => 'LBL_BT_CHITIETDONHANG_BT_BT_DONHANG_BT_1_FROM_BT_CHITIETDONHANG_BT_TITLE',
+    'id' => 'BT_CHITIETDONHANG_BT_BT_DONHANG_BT_1BT_CHITIETDONHANG_BT_IDA',
+    'width' => '10%',
+    'default' => true,
+  ),
+  'ASSIGNED_USER_NAME' => 
+  array (
+    'width' => '9%',
+    'label' => 'LBL_ASSIGNED_TO_NAME',
+    'module' => 'Employees',
+    'id' => 'ASSIGNED_USER_ID',
+    'default' => true,
+  ),
+);
+?>

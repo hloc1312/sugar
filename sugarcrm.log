@@ -1,0 +1,139 @@
+02/07/23 08:32:11 [137444][-none-][FATAL] SECURITY: User authentication for admin failed
+02/07/23 08:32:11 [137444][-none-][FATAL] FAILED LOGIN:attempts[1] - admin
+02/07/23 10:00:24 [21984][1][FATAL]  Query Failed: SELECT id, date_entered FROM c_sanpham ORDER BY ASC LIMIT 0,1: MySQL error 1064: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'ASC LIMIT 0,1' at line 1
+02/07/23 10:00:24 [21984][1][FATAL]  Fetch One Failed:SELECT id, date_entered FROM c_sanpham ORDER BY ASC LIMIT 0,1: MySQL error 1064: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'ASC LIMIT 0,1' at line 1
+02/07/23 10:01:54 [21984][1][FATAL]  Query Failed: SELECT id, date_entered FROM c_sanpham ORDER BY ASC LIMIT 0,1: MySQL error 1064: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'ASC LIMIT 0,1' at line 1
+02/07/23 10:01:54 [21984][1][FATAL]  Fetch One Failed:SELECT id, date_entered FROM c_sanpham ORDER BY ASC LIMIT 0,1: MySQL error 1064: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'ASC LIMIT 0,1' at line 1
+02/09/23 07:07:54 [23884][1][FATAL] ncc_link for ncc_sps failed to load
+
+02/09/23 07:10:31 [23884][1][FATAL] ncc_link for ncc_sps failed to load
+
+02/09/23 07:11:47 [23884][1][FATAL] ncc_link for ncc_sps failed to load
+
+02/09/23 07:11:54 [23884][1][FATAL] ncc_link for ncc_sps failed to load
+
+02/09/23 15:12:51 [28268][1][FATAL] ncc_link for ncc_sps failed to load
+
+02/09/23 15:14:44 [28268][1][FATAL] ncc_link for ncc_sps failed to load
+
+02/09/23 15:15:21 [28268][1][FATAL] ncc_link for ncc_sps failed to load
+
+02/09/23 15:44:27 [28268][1][FATAL] ncc_link for ncc_sps failed to load
+
+02/09/23 15:48:07 [28268][1][FATAL] ncc_link for ncc_sps failed to load
+
+02/09/23 15:48:22 [28268][1][FATAL] ncc_link for ncc_sps failed to load
+
+02/09/23 15:53:58 [28268][1][FATAL] ncc_link for ncc_sps failed to load
+
+02/09/23 15:54:53 [28268][1][FATAL] ncc_link for ncc_sps failed to load
+
+02/09/23 16:12:02 [28268][1][FATAL] ncc_link for ncc_sps failed to load
+
+02/09/23 16:12:33 [28268][1][FATAL] ncc_link for ncc_sps failed to load
+
+02/09/23 16:14:32 [28268][1][FATAL] ncc_link for ncc_sps failed to load
+
+02/09/23 16:17:14 [28268][1][FATAL] ncc_link for ncc_sps failed to load
+
+02/09/23 16:35:07 [28268][1][FATAL] ncc_link for ncc_sps failed to load
+
+02/09/23 16:35:54 [28268][1][FATAL] ncc_link for ncc_sps failed to load
+
+02/09/23 16:49:41 [28268][1][FATAL] ncc_link for ncc_sps failed to load
+
+02/10/23 02:59:53 [17344][1][FATAL] ncc_link for ncc_sps failed to load
+
+02/10/23 03:00:23 [17344][1][FATAL] ncc_link for ncc_sps failed to load
+
+02/10/23 03:00:49 [17344][1][FATAL] ncc_link for ncc_sps failed to load
+
+02/10/23 03:02:33 [17344][1][FATAL] ncc_link for ncc_sps failed to load
+
+02/10/23 03:02:36 [17344][1][FATAL] ncc_link for ncc_sps failed to load
+
+02/10/23 03:03:39 [17344][1][FATAL] ncc_link for ncc_sps failed to load
+
+02/10/23 03:05:45 [17344][1][FATAL] ncc_link for ncc_sps failed to load
+
+02/10/23 03:05:54 [17344][1][FATAL] ncc_link for ncc_sps failed to load
+
+02/10/23 03:06:13 [17344][1][FATAL] ncc_link for ncc_sps failed to load
+
+02/10/23 03:06:54 [17344][1][FATAL] ncc_link for ncc_sps failed to load
+
+02/10/23 03:06:58 [17344][1][FATAL] ncc_link for ncc_sps failed to load
+
+02/10/23 03:07:07 [17344][1][FATAL] ncc_link for ncc_sps failed to load
+
+02/10/23 03:08:05 [17344][1][FATAL] ncc_link for ncc_sps failed to load
+
+02/10/23 03:08:25 [17344][1][FATAL] ncc_link for ncc_sps failed to load
+
+02/10/23 03:08:30 [17344][1][FATAL] ncc_link for ncc_sps failed to load
+
+02/10/23 03:08:38 [17344][1][FATAL] ncc_link for ncc_sps failed to load
+
+02/10/23 03:08:38 [17344][1][FATAL] error loading relationship ncc_link
+02/10/23 03:08:38 [17344][1][FATAL] ncc_link for ncc_sps failed to load
+
+02/10/23 03:11:52 [17344][1][FATAL] ncc_link for ncc_sps failed to load
+
+02/10/23 03:12:15 [17344][1][FATAL] ncc_link for ncc_sps failed to load
+
+02/10/23 03:13:52 [17344][1][FATAL] ncc_link for ncc_sps failed to load
+
+02/10/23 03:15:27 [17344][1][FATAL] ncc_link for ncc_sps failed to load
+
+02/10/23 03:16:26 [17344][1][FATAL] ncc_link for ncc_sps failed to load
+
+02/10/23 03:17:00 [17344][1][FATAL] ncc_link for ncc_sps failed to load
+
+02/10/23 03:18:55 [17344][1][FATAL] ncc_link for ncc_sps failed to load
+
+02/10/23 03:19:45 [17344][1][FATAL] ncc_link for ncc_sps failed to load
+
+02/10/23 03:23:17 [17344][1][FATAL] ncc_link for ncc_sps failed to load
+
+02/10/23 03:25:54 [17344][1][FATAL] ncc_link for ncc_sps failed to load
+
+02/10/23 05:04:46 [17344][1][FATAL]  Query Failed: SELECT * FROM bt_donhang_bt ORDER BY madh DESC LIMIT 0,1: MySQL error 1054: Unknown column 'madh' in 'order clause'
+02/10/23 05:04:46 [17344][1][FATAL]  Fetch One Failed:SELECT * FROM bt_donhang_bt ORDER BY madh DESC LIMIT 0,1: MySQL error 1054: Unknown column 'madh' in 'order clause'
+02/10/23 05:07:32 [17344][1][FATAL]  Query Failed: SELECT * FROM bt_donhang_bt ORDER BY madh DESC LIMIT 0,1: MySQL error 1054: Unknown column 'madh' in 'order clause'
+02/10/23 05:07:32 [17344][1][FATAL]  Fetch One Failed:SELECT * FROM bt_donhang_bt ORDER BY madh DESC LIMIT 0,1: MySQL error 1054: Unknown column 'madh' in 'order clause'
+02/10/23 05:10:39 [17344][1][FATAL] khachhang_link for khachhang_donhangs failed to load
+
+02/10/23 05:20:37 [17344][1][FATAL] khachhang_link for khachhang_donhangs failed to load
+
+02/10/23 06:23:40 [17344][1][FATAL]  Query Failed: SELECT * FROM BT_sanpham_bt Where 4a60d3f2-3cc1-1fca-2924-63e5ad1908f7 LIMIT 0,1: MySQL error 1064: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'ad1908f7 LIMIT 0,1' at line 1
+02/10/23 06:23:40 [17344][1][FATAL]  Fetch One Failed:SELECT * FROM BT_sanpham_bt Where 4a60d3f2-3cc1-1fca-2924-63e5ad1908f7 LIMIT 0,1: MySQL error 1064: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'ad1908f7 LIMIT 0,1' at line 1
+02/10/23 14:29:15 [27748][1][FATAL]  Query Failed: UPDATE BT_donhang_bt SET price= 60 WHERE id= 7a031d1d-4877-1046-7354-63e64671ca6d: MySQL error 1367: Illegal double '63e64671' value found during parsing
+02/10/23 14:36:01 [27748][1][FATAL]  Query Failed: UPDATE BT_donhang_bt SET price= 24 WHERE id= 7a031d1d-4877-1046-7354-63e64671ca6d: MySQL error 1367: Illegal double '63e64671' value found during parsing
+02/10/23 14:41:48 [27748][1][FATAL] sanpham_link for sanpham_chitietdonhangs failed to load
+
+02/10/23 14:41:48 [27748][1][FATAL] error loading relationship sanpham_link
+02/10/23 14:41:48 [27748][1][FATAL] donhang_link for donhang_chitietdonhangs failed to load
+
+02/10/23 14:41:48 [27748][1][FATAL] error loading relationship donhang_link
+02/11/23 03:51:00 [31412][-none-][FATAL] Could not connect to DB server localhost as root. port : Server sent charset unknown to the client. Please, report to the developers
+02/11/23 03:51:02 [31412][-none-][FATAL] Could not connect to DB server localhost as root. port : Server sent charset unknown to the client. Please, report to the developers
+02/11/23 03:51:19 [31412][-none-][FATAL] Could not connect to DB server localhost as root. port : No connection could be made because the target machine actively refused it.
+
+02/11/23 03:51:26 [31412][-none-][FATAL] Could not connect to DB server localhost as root. port : No connection could be made because the target machine actively refused it.
+
+02/11/23 03:53:53 [31412][1][FATAL] Error inserting into table: bt_chitietdonhang_bt: Query Failed: INSERT INTO bt_chitietdonhang_bt (id,name,date_entered,date_modified,modified_user_id,created_by,description,deleted,soluong,sanpham_id,donhang_id)
+					VALUES ('ca7f5467-8e57-2dff-f9b5-63e70391e65f','ctdh_2','2023-02-11 02:53:53','2023-02-11 02:53:53','1','1','',0,2,'528cd5f5-2600-d933-b633-63e646020d4b','64d007d2-ff96-bd9d-48c1-63e6fd01a468'): MySQL error 1062: Duplicate entry '528cd5f5-2600-d933-b633-63e646020d4b-64d007d2-ff96-bd9d-48c1-63e' for key 'PRIMARY'
+02/11/23 03:54:33 [31412][1][FATAL] Error inserting into table: bt_chitietdonhang_bt: Query Failed: INSERT INTO bt_chitietdonhang_bt (id,name,date_entered,date_modified,modified_user_id,created_by,description,deleted,soluong,sanpham_id,donhang_id)
+					VALUES ('73110f96-e48c-d954-12a7-63e7032bf3b7','ctdh_2','2023-02-11 02:54:33','2023-02-11 02:54:33','1','1','',0,2,'2ef2d008-987d-8fcf-8d6c-63e6459a0780','64d007d2-ff96-bd9d-48c1-63e6fd01a468'): MySQL error 1054: Unknown column 'id' in 'field list'
+02/11/23 03:54:39 [31412][1][FATAL] Error inserting into table: bt_chitietdonhang_bt: Query Failed: INSERT INTO bt_chitietdonhang_bt (id,name,date_entered,date_modified,modified_user_id,created_by,description,deleted,soluong,sanpham_id,donhang_id)
+					VALUES ('2465ab97-4af0-beb3-1ef2-63e703a9adc3','ctdh_2','2023-02-11 02:54:39','2023-02-11 02:54:39','1','1','',0,2,'2ef2d008-987d-8fcf-8d6c-63e6459a0780','64d007d2-ff96-bd9d-48c1-63e6fd01a468'): MySQL error 1054: Unknown column 'id' in 'field list'
+02/11/23 03:54:47 [31412][1][FATAL]  Query Failed:  SELECT  bt_chitietdonhang_bt.id ,bt_chitietdonhang_bt_cstm.discount_c,bt_chitietdonhang_bt_cstm.price_c, bt_chitietdonhang_bt.name , jt0.name tensp_c , jt1.name ten_donhang_c , bt_chitietdonhang_bt.soluong , bt_chitietdonhang_bt.description , bt_chitietdonhang_bt.assigned_user_id  FROM bt_chitietdonhang_bt  LEFT JOIN bt_chitietdonhang_bt_cstm ON bt_chitietdonhang_bt.id = bt_chitietdonhang_bt_cstm.id_c  LEFT JOIN bt_sanpham_bt jt0 ON bt_chitietdonhang_bt_cstm.bt_sanpham_bt_id_c = jt0.id AND jt0.deleted=0  LEFT JOIN bt_donhang_bt jt1 ON bt_chitietdonhang_bt_cstm.bt_donhang_bt_id_c = jt1.id AND jt1.deleted=0  where bt_chitietdonhang_bt.deleted=0 ORDER BY ten_donhang_c ASC LIMIT 0,21: MySQL error 1054: Unknown column 'bt_chitietdonhang_bt.id' in 'field list'
+02/11/23 03:54:53 [31412][1][FATAL]  Query Failed:  SELECT  bt_chitietdonhang_bt.id ,bt_chitietdonhang_bt_cstm.discount_c,bt_chitietdonhang_bt_cstm.price_c, bt_chitietdonhang_bt.name , jt0.name tensp_c , jt1.name ten_donhang_c , bt_chitietdonhang_bt.soluong , bt_chitietdonhang_bt.description , bt_chitietdonhang_bt.assigned_user_id  FROM bt_chitietdonhang_bt  LEFT JOIN bt_chitietdonhang_bt_cstm ON bt_chitietdonhang_bt.id = bt_chitietdonhang_bt_cstm.id_c  LEFT JOIN bt_sanpham_bt jt0 ON bt_chitietdonhang_bt_cstm.bt_sanpham_bt_id_c = jt0.id AND jt0.deleted=0  LEFT JOIN bt_donhang_bt jt1 ON bt_chitietdonhang_bt_cstm.bt_donhang_bt_id_c = jt1.id AND jt1.deleted=0  where bt_chitietdonhang_bt.deleted=0 ORDER BY ten_donhang_c ASC LIMIT 0,21: MySQL error 1054: Unknown column 'bt_chitietdonhang_bt.id' in 'field list'
+02/11/23 03:55:48 [31412][1][FATAL] Error inserting into table: bt_chitietdonhang_bt: Query Failed: INSERT INTO bt_chitietdonhang_bt (id,name,date_entered,date_modified,modified_user_id,created_by,description,deleted,soluong,sanpham_id,donhang_id)
+					VALUES ('5d17441c-af40-af02-1d80-63e70355a5b7','ctdh_1','2023-02-11 02:55:48','2023-02-11 02:55:48','1','1','',0,2,'1c44be98-ccfa-9bda-b633-63e64558aa7c','64d007d2-ff96-bd9d-48c1-63e6fd01a468'): MySQL error 1054: Unknown column 'id' in 'field list'
+02/11/23 03:58:11 [31412][1][FATAL] Error inserting into table: bt_chitietdonhang_bt: Query Failed: INSERT INTO bt_chitietdonhang_bt (id,name,date_entered,date_modified,modified_user_id,created_by,description,deleted,soluong,sanpham_id,donhang_id)
+					VALUES ('601c0b9e-02a2-9b10-2dbd-63e704920a94','3','2023-02-11 02:58:10','2023-02-11 02:58:10','1','1','',0,4,'2ef2d008-987d-8fcf-8d6c-63e6459a0780','64d007d2-ff96-bd9d-48c1-63e6fd01a468'): MySQL error 1062: Duplicate entry '2ef2d008-987d-8fcf-8d6c-63e6459a0780-64d007d2-ff96-bd9d-48c1-63e' for key 'PRIMARY'
+02/11/23 04:49:20 [31412][1][FATAL] Error inserting into table: bt_chitietdonhang_bt: Query Failed: INSERT INTO bt_chitietdonhang_bt (id,name,date_entered,date_modified,modified_user_id,created_by,description,deleted,sanpham_id,donhang_id)
+					VALUES ('665f8f54-1718-1946-3f82-63e70c787810','123','2023-02-11 03:34:39','2023-02-11 03:34:39','1','1','',0,'528cd5f5-2600-d933-b633-63e646020d4b','64d007d2-ff96-bd9d-48c1-63e6fd01a468'): MySQL error 1062: Duplicate entry '528cd5f5-2600-d933-b633-63e646020d4b-64d007d2-ff96-bd9d-48c1-63e' for key 'PRIMARY'
+02/11/23 04:49:44 [31412][1][FATAL] Error inserting into table: bt_chitietdonhang_bt: Query Failed: INSERT INTO bt_chitietdonhang_bt (id,name,date_entered,date_modified,modified_user_id,created_by,description,deleted,sanpham_id,donhang_id)
+					VALUES ('37fb8892-9557-c51d-7620-63e710c4f06b','123','2023-02-11 03:49:43','2023-02-11 03:49:43','1','1','',0,'528cd5f5-2600-d933-b633-63e646020d4b','64d007d2-ff96-bd9d-48c1-63e6fd01a468'): MySQL error 1062: Duplicate entry '528cd5f5-2600-d933-b633-63e646020d4b-64d007d2-ff96-bd9d-48c1-63e' for key 'PRIMARY'

@@ -1,0 +1,62 @@
+<?php
+$module_name = 'BT_sanpham_bt';
+$listViewDefs [$module_name] = 
+array (
+  'MASP' => 
+  array (
+    'type' => 'varchar',
+    'label' => 'LBL_MASP',
+    'width' => '10%',
+    'default' => true,
+  ),
+  'NAME' => 
+  array (
+    'width' => '32%',
+    'label' => 'LBL_NAME',
+    'default' => true,
+    'link' => true,
+  ),
+  'PRICE' => 
+  array (
+    'type' => 'decimal',
+    'label' => 'LBL_PRICE',
+    'width' => '10%',
+    'default' => true,
+  ),
+  'DESCRIPTION' => 
+  array (
+    'type' => 'text',
+    'label' => 'LBL_DESCRIPTION',
+    'sortable' => false,
+    'width' => '10%',
+    'default' => true,
+  ),
+  'TEN_SANPHAM_C' => 
+  array (
+    'type' => 'relate',
+    'default' => true,
+    'studio' => 'visible',
+    'label' => 'LBL_TEN_SANPHAM',
+    'id' => 'BT_SANPHAM_BT_ID_C',
+    'link' => true,
+    'width' => '10%',
+  ),
+  'NCC_NAME' => 
+  array (
+    'type' => 'relate',
+    'link' => true,
+    'label' => 'LBL_NCC_NAME',
+    'id' => 'NCC_ID',
+    'width' => '10%',
+    'default' => true,
+  ),
+  'ASSIGNED_USER_NAME' => 
+  array (
+    'width' => '9%',
+    'label' => 'LBL_ASSIGNED_TO_NAME',
+    'module' => 'Employees',
+    'id' => 'ASSIGNED_USER_ID',
+    'default' => false,
+  ),
+);
+?>

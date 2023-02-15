@@ -1,0 +1,41 @@
+<?php
+// created: 2023-02-08 09:00:58
+$subpanel_layout['list_fields'] = array (
+  'masp' => 
+  array (
+    'type' => 'varchar',
+    'vname' => 'LBL_MASP',
+    'width' => '10%',
+    'default' => true,
+  ),
+  'name' => 
+  array (
+    'vname' => 'LBL_NAME',
+    'widget_class' => 'SubPanelDetailViewLink',
+    'width' => '45%',
+    'default' => true,
+  ),
+  'price' => 
+  array (
+    'type' => 'decimal',
+    'vname' => 'LBL_PRICE',
+    'width' => '10%',
+    'default' => true,
+  ),
+  'edit_button' => 
+  array (
+    'vname' => 'LBL_EDIT_BUTTON',
+    'widget_class' => 'SubPanelEditButton',
+    'module' => 'BT_sanpham_bt',
+    'width' => '4%',
+    'default' => true,
+  ),
+  'remove_button' => 
+  array (
+    'vname' => 'LBL_REMOVE',
+    'widget_class' => 'SubPanelRemoveButton',
+    'module' => 'BT_sanpham_bt',
+    'width' => '5%',
+    'default' => true,
+  ),
+);
